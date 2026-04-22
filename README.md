@@ -1,5 +1,5 @@
 # 🎬 AutoStream AI Sales Agent
-### Social-to-Lead Agentic Workflow | ServiceHive × Inflx Assignment
+### Social-to-Lead Agentic Workflow
 
 > A production-grade conversational AI agent that converts social media conversations into qualified business leads using **intent detection**, **RAG-powered knowledge retrieval**, and **automated lead capture**.
 
