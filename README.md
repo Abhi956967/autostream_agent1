@@ -146,8 +146,3 @@ The LLM retains context across 5–6+ turns because the full conversation histor
 The knowledge base (JSON) is loaded once at startup and converted into a structured text block injected into the system prompt. For this KB size (~1KB), this "prompt-stuffing RAG" is more reliable than vector retrieval. In production, this would be replaced with embeddings + FAISS/Pinecone.
 
 ---
-- **Demo Video**: [your-loom-or-youtube-link]
-
----
-
-*Built for ServiceHive × Inflx — Social-to-Lead Agentic Workflow Assignment*
